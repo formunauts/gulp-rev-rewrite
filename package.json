@@ -1,11 +1,11 @@
 {
-  "name": "gulp-rev-rewrite",
-  "version": "0.0.0-development",
+  "name": "@formunauts/gulp-rev-rewrite",
+  "version": "1.2.0",
   "description": "Rewrite occurences of filenames which have been renamed by gulp-rev",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TheDancingCode/gulp-rev-rewrite.git"
+    "url": "https://github.com/formunauts/gulp-rev-rewrite.git"
   },
   "scripts": {
     "semantic-release": "semantic-release",
